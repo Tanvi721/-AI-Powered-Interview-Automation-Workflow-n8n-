@@ -69,13 +69,8 @@ Gmail (Send Interview Email)
 ## 📸 Workflow Preview
 
 <img width="1920" height="852" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/ef17e077-d31d-4cca-8014-2ec68fda9357" />
+<img width="1920" height="850" alt="image" src="https://github.com/user-attachments/assets/773d9ab1-5208-4752-9af4-a9dbc5e12f29" />
 
-
-```
-![Workflow Screenshot](screenshot.png)
-```
-
----
 
 ## ⚙️ How to Use
 
